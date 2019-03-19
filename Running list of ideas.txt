@@ -1,1 +1,21 @@
-sd
+Tie reviews to the customers
+
+Convert the review text to a numerical value (binary)
+
+Run clustering on the data
+Property by user
+User by Property
+(House A, B, C
+User X, Y, Z
+
+1st month
+A - X
+B - Y
+C - Z
+
+later
+A - Y
+B - Z
+C - X
+
+Flipping the houses among themselves
