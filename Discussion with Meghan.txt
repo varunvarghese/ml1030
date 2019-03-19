@@ -5,4 +5,5 @@
 •	 Classify the places that use similar language/description
 •	Flip-flopping the listing. Turning it on and off. (Could be under a different user).
 •	Multiple accounts pointing to the same address
-•	
+•	If a property is consistently rated low and reviews like, it is not what was promised (not meeting expectations). Definte red flag.
+
