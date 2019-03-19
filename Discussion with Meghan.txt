@@ -1,0 +1,8 @@
+2019-03-19 Tue
+
+•	For now, focus on the text analytics rather than mapping the AirBnB data onto the Toronto Crime data (map)
+•	Being able to identify similar places on the language used (description)
+•	 Classify the places that use similar language/description
+•	Flip-flopping the listing. Turning it on and off. (Could be under a different user).
+•	Multiple accounts pointing to the same address
+•	
