@@ -19,3 +19,14 @@ B - Z
 C - X
 
 Flipping the houses among themselves
+
+Check outliers in price. Find out why they are outliers. Some of them might be legit.
+(possible money laundering)
+
+Is gender info available in the data?
+Race? Self declared
+Are they violations of privacy 
+
+Outliers in customer reviews. Only 5 stars. That's unbelievable.
+
+
