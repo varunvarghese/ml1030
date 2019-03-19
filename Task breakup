@@ -5,3 +5,13 @@ listingid +ve -ve %of total
 ----------------------------
 
 
+% distribution of reviews:
+
+    +ve
+-------------
+SUM(+ve, -ve)
+
+
+    -ve
+-------------
+SUM(+ve, -ve)
