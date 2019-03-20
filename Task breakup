@@ -15,3 +15,7 @@ SUM(+ve, -ve)
     -ve
 -------------
 SUM(+ve, -ve)
+
+
+Find review tied to property owners.
+Particular owner that have only +ve or -ve reviews
