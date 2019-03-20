@@ -30,3 +30,4 @@ Are they violations of privacy
 Outliers in customer reviews. Only 5 stars. That's unbelievable.
 
 
+identify the fields to be dropped.
