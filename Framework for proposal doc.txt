@@ -1,0 +1,10 @@
+What's the problem that we are trying to solve
+
+Data. Do we have enough of it. Do we need more.
+
+What are the challenges
+
+What is the expected outcome
+(solution, deliverables, possible demos)
+
+Next steps?
