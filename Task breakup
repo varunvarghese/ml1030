@@ -27,6 +27,11 @@ EDA
 Silviu: outliers in prices (box plots..)
 take a look at the top 10 percentile
 
+follow top 10% outliers
+link description to price
+try to link sentiment of reviews to price
+follow lat long accross multiple months - check if it stays with same user/property id or it changes in time
+
 Varun: % distribution of reviews
 
 TextBlob
