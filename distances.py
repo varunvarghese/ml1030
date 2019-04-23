@@ -50,3 +50,8 @@ for i in distances.index:
 	
 
 distances.to_csv("distances.csv",index=False, header=True)
+
+
+
+
+
