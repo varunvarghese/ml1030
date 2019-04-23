@@ -23,8 +23,17 @@ host_count["latitude"] = host_count["latitude"].astype("float64")
 host_count["longitude"] = host_count["longitude"].astype("float64")
 
 
+#rename the columns
+host_count.columns = ["latitude", "longitude", "count"]
+
 #find the latitude and longitude combinations which have multiple host_ids mapped to them
-print(host_count[host_count["host_id"]>1])
+multiple_hosts_per_latlon = host_count[host_count["count"]>1].reset_index(drop=True)
+print(multiple_hosts_per_latlon)
 
-
-
+#print the rows from df_unique for the combination of lat/lon which have multiple host_ids mapped to them
+for i in multiple_hosts_per_latlon.index: 
+	lat = multiple_hosts_per_latlon.iloc[i]["latitude"] 
+	lon = multiple_hosts_per_latlon.iloc[i]["longitude"] 
+	print(df_unique[(df_unique["latitude"]==lat) & (df_unique["longitude"]==lon)]) 
+	print("") 
+	
